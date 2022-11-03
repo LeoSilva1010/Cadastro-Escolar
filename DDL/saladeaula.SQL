@@ -1,5 +1,5 @@
-CREATE TABLE sala de aula {
+CREATE TABLE saladeaula (
     ID INT PRIMARY KEY,
-    ID turma varchar(255),
+    IDturma varchar(255),
     Descricao varchar (255)
-};
+);
