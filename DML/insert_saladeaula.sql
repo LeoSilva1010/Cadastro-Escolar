@@ -1,0 +1,1 @@
+insert into saladeaula (id, idturma, Descricao) values(1, 1, "inf");

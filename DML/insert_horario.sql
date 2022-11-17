@@ -1,0 +1,1 @@
+insert into horario (id, Descricao, idProfessor) values (1, "Portugues", 1); 

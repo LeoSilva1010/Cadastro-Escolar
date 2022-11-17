@@ -1,0 +1,1 @@
+insert into turma (id, idMatricula, idHorario) values (1, 1, 1);

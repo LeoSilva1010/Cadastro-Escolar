@@ -1,0 +1,1 @@
+insert into professor (id, Descricao, Nome) values (1, "Portugues", "Claudinei");
